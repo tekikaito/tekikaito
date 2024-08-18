@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **rust, langchain, design-thinking**
 
-- 👯 I’m looking to collaborate on [zed](https://github.com/zed-industries/zed)
+- 👯 I’m looking to collaborate on [zed](https://github.com/zed-industries/zed) when I am confident enough in Rust.
 
-- 💬 Ask me about **TypeScript, JavaScript, C#, Python, Bash, Linux**
+
+- 💬 I often use **Linux, Bash, Git, Docker, Kubernetes, Python, TypeScript, JavaScript, C#**
 
 - ⚡ Fun fact **I have 2 cats named "Professor" and "Captain" and I love them very much.**
 
