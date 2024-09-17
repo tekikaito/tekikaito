@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [stapler](https://github.com/tekikaito/stapler) and [empirius](https://github.com/tekikaito/empirius) and some other (mainly private) projects like my portfolio, k8s-ansible-automation in my local network, llm-applications with langchain and of course my [Minecraft Server](https://wiki.empirerift.com).  
 
-- 🌱 I’m currently learning **rust, langchain, design-thinking**
+- 🌱 I’m currently learning **kotlin, rust, langchain, design-thinking**
 
 - 👯 I’m looking to collaborate on [zed](https://github.com/zed-industries/zed) when I am confident enough in Rust.
 
