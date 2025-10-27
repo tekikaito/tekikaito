@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekikaito&label=Profile%20views&color=0e75b6&style=flat" alt="tekikaito" /> </p>
 
-- 🔭 I’m currently working on [stapler](https://github.com/tekikaito/stapler) and [empirius](https://github.com/tekikaito/empirius) and some other (mainly private) projects like my portfolio, k8s-ansible-automation in my local network, llm-applications with langchain and of course my [Minecraft Server](https://wiki.empirerift.com).  
+- 🔭 I’m currently working on [stapler](https://github.com/tekikaito/stapler) and some other (for the most part private) side-projects like my portfolio, k8s-ansible-automation in my local network, llm-applications with langchain and of course my [Minecraft Server](https://wiki.empirerift.com).  
 
 - 🌱 I’m currently learning **lua, redm-scripting, rust, llm-apps**
 
