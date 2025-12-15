@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhwcGg0bnl1cmR0N2ZvbTZpNDdqbnlubTF2MW1mcjB5bnBtYXdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="cover" />
+<img height = "250px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhwcGg0bnl1cmR0N2ZvbTZpNDdqbnlubTF2MW1mcjB5bnBtYXdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
