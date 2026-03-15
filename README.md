@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning my Kubernetes and Software Architecture skills. I am also trying to learn a diversity of programming languages, by creating small projects using them. 
 
-- 👯 I’m looking to collaborate on cool projects, I am using by mylself. 
+- 👯 I’m looking to collaborate on cool projects, I am using by myself. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
