@@ -1,47 +1,29 @@
-<div align="center">
-<img height = "250px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhwcGg0bnl1cmR0N2ZvbTZpNDdqbnlubTF2MW1mcjB5bnBtYXdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="cover" />
-</div>
+# Marc
 
-<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+Software developer. I like small, sharp tools, Kubernetes, and building things just to see if they work.
 
-</p>
-<div size='20px'> Hi! My name is Marc. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+Most of my time goes into Go, Rust and TypeScript, with a lot of Linux and cluster tinkering around it. Plenty of what I build lives in private repos, so what's below is the public tip of the iceberg.
 
-<h2> About Me</h2>
+## Things I've built
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+| Project | What it is |
+| --- | --- |
+| [**kshows**](https://github.com/tekikaito/kshows) | See a Kubernetes cluster as physical space: nodes as rectangles, pods packed in by real usage vs. requests. Read-only, single Go binary. |
+| [**tmop**](https://github.com/tekikaito/tmop) | Task Manager OverPowered: a skinnable Windows system monitor in Rust, every feature free. |
+| [**forge**](https://github.com/tekikaito/forge) | Offline-first, single-binary MCP runtime manager. |
+| [**stapler**](https://github.com/tekikaito/stapler) | A PDF merging tool in Rust. Does one thing. |
+| [**mc-admin**](https://github.com/tekikaito/mc-admin) | Web UI for administering a Minecraft server over RCON and HTTP. |
 
+## On the workbench
 
-- 🔭 I’m currently working on [mc-admin](https://github.com/tekikaito/mc-admin) and some other (for the most part private) side-projects like my portfolio, k8s-ansible-automation in my local network and applications utilizing LLMs. 
+- Running my own clusters and finding out what breaks
+- Tools that put LLMs to work on real problems instead of demos
+- Learning a new language by shipping a small project in it
 
-- 🌱 I’m currently learning my Kubernetes and Software Architecture skills. I am also trying to learn a diversity of programming languages, by creating small projects using them. 
+## Toolbox
 
-- 👯 I’m looking to collaborate on cool projects, I am using by myself. 
+`Go` · `Rust` · `TypeScript` · `C#` · `Python` · `Bash` · `Kubernetes` · `Docker` · `PostgreSQL` · `Linux`
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
-<a href= https://github.com/tekikaito?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
- and many others 🙂...
+---
 
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/marc-gilbrecht-6817a81b3/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/tekikaito'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-![Metrics](https://metrics.lecoq.io/tekikaito?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<sub>Open to interesting collaborations. If something I made is useful to you, an issue or a star is always welcome.</sub>
