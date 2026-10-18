@@ -1,6 +1,6 @@
 # Marc
 
-Software developer. Most of what I build is private, these are the public bits.
+Software developer and DevOps engineer. Most of what I build is private, these are the public bits.
 
 ## Projects
 
@@ -11,6 +11,12 @@ Software developer. Most of what I build is private, these are the public bits.
 | [**forge**](https://github.com/tekikaito/forge) | Offline-first, single-binary MCP runtime manager. |
 | [**stapler**](https://github.com/tekikaito/stapler) | PDF merging tool in Rust. |
 | [**mc-admin**](https://github.com/tekikaito/mc-admin) | Web UI for administering a Minecraft server over RCON and HTTP. |
+
+## Live
+
+| Project | What it is |
+| --- | --- |
+| [**Botmate**](https://botmate.dev) | Describe in a few sentences how your chess bot should play, then watch it take on other players' bots in the arena. |
 
 ## AI
 
