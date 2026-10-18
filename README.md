@@ -14,12 +14,6 @@ Most of my time goes into Go, Rust and TypeScript, with a lot of Linux and clust
 | [**stapler**](https://github.com/tekikaito/stapler) | A PDF merging tool in Rust. Does one thing. |
 | [**mc-admin**](https://github.com/tekikaito/mc-admin) | Web UI for administering a Minecraft server over RCON and HTTP. |
 
-## On the workbench
-
-- Running my own clusters and finding out what breaks
-- Tools that put LLMs to work on real problems instead of demos
-- Learning a new language by shipping a small project in it
-
 ## Toolbox
 
 `Go` · `Rust` · `TypeScript` · `C#` · `Python` · `Bash` · `Kubernetes` · `Docker` · `PostgreSQL` · `Linux`
