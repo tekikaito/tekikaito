@@ -20,7 +20,7 @@ I don't read everything. tmop is mostly unread (Rust is ugly), and so is most of
 
 I build my own CLIs and TUIs to manage agents and run them in parallel. I don't follow a fixed workflow and keep tweaking it.
 
-Use common sense and it's a great tool.
+It's a great tool if you use common sense: know software engineering, maintenance and the CS basics, and know what AI can do and what it can't (yet).
 
 ## Stack
 
